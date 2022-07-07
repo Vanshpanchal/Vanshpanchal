@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Vanshpanchal
-- 👀 I’m interested in web development & Coding.
-- 🌱 I’m currently learning intermediate C.
+
 
 
 <!---
